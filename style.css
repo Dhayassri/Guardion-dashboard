@@ -1,0 +1,26 @@
+body{
+    font-family: Arial;
+    background:#f2f2f2;
+    text-align:center;
+}
+
+.card{
+    background:white;
+    width:250px;
+    margin:20px auto;
+    padding:20px;
+    border-radius:10px;
+}
+.container{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    flex-wrap:wrap;
+}
+.status-card{
+    background:white;
+    width:500px;
+    margin:30px auto;
+    padding:20px;
+    border-radius:10px;
+}
