@@ -14,6 +14,10 @@ Guardion is a smart electrical monitoring system designed to detect:
 
 The dashboard visualizes real-time electrical parameters and fault predictions.
 
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
+
 ## Features
 
 - Live Voltage Monitoring
