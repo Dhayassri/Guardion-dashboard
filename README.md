@@ -16,7 +16,7 @@ The dashboard visualizes real-time electrical parameters and fault predictions.
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](shots/dashboard.png)
 
 ## Features
 
